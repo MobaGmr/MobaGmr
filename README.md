@@ -8,7 +8,7 @@
 
 <p align="center">
   <b>Mobile Legends Player • Juggler & Marksman • ML Tools & Video Creator</b><br>
-  <a href="https://www.tiktok.com/@mobagamer999" target="_blank">
+  <a href="tiktok.com/@mobagamer9990" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-@MobaGmr-ff0050?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
   <a href="https://github.com/MobaGmr" target="_blank">
@@ -23,4 +23,4 @@
 Main Game: Mobile Legends: Bang Bang
 Role: Juggler / Marksman
 Focus: Video ML & ML Tools Development
-TikTok: tiktok.com/@mobagamer999
+TikTok: tiktok.com/@mobagamer9990
