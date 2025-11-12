@@ -1,9 +1,7 @@
-<!-- Banner -->
+<!-- 🌌 MobaGmr Profile README -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/MobaGmr/MobaGmr/main/banner.png" alt="ML Tools Zone Banner" width="100%">
-</p>
-<p align="center">
-  <img src="https://github.com/MobaGmr/MobaGmr/blob/main/banner.png" alt="ML Tools Zone by MobaGmr" width="100%"/>
 </p>
 
 <h1 align="center">🎮 Welcome to <span style="color:#7B68EE;">MobaGmr</span> Zone 🎮</h1>
@@ -20,10 +18,8 @@
 
 ---
 
-### ⚡ About Me
+### 🧠 About Me
 ```yaml
-Name: Aldii
-From: Indonesia 🇮🇩
 Main Game: Mobile Legends: Bang Bang
 Role: Juggler / Marksman
 Focus: Video ML & ML Tools Development
