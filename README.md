@@ -1,5 +1,8 @@
 <!-- Banner -->
 <p align="center">
+  <img src="https://raw.githubusercontent.com/MobaGmr/MobaGmr/main/banner.png" alt="ML Tools Zone Banner" width="100%">
+</p>
+<p align="center">
   <img src="https://github.com/MobaGmr/MobaGmr/blob/main/banner.png" alt="ML Tools Zone by MobaGmr" width="100%"/>
 </p>
 
