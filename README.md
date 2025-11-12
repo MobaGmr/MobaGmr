@@ -1,16 +1,27 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/MobaGmr/MobaGmr/blob/main/banner.png" alt="ML Tools Zone by MobaGmr" width="100%"/>
+</p>
 
-<!--
-**MobaGmr/MobaGmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🎮 Welcome to <span style="color:#7B68EE;">MobaGmr</span> Zone 🎮</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Mobile Legends Player • Juggler & Marksman • ML Tools & Video Creator</b><br>
+  <a href="https://www.tiktok.com/@mobagmr" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-@MobaGmr-ff0050?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MobaGmr" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-MobaGmr-blueviolet?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ About Me
+```yaml
+Name: Aldii
+From: Indonesia 🇮🇩
+Main Game: Mobile Legends: Bang Bang
+Role: Juggler / Marksman
+Focus: Video ML & ML Tools Development
+TikTok: tiktok.com/@mobagamer999
